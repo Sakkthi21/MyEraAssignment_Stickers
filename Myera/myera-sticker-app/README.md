@@ -38,3 +38,10 @@ npm start
 - Drag stickers to reposition them (they will snap to a 40px grid)
 - Double-click a sticker to remove it
 - Click the Download button to save the canvas as a PNG file
+
+
+ScreenShot:
+
+![image](https://github.com/user-attachments/assets/8c318c38-01c1-41e4-80a1-4b6a009c7109)
+
+![image](https://github.com/user-attachments/assets/98639549-827b-4e0e-a4ba-894fe35896b1)
